@@ -1,0 +1,107 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+    margin:0px;
+    padding:0px;
+ }
+.bg{
+	background-image:url(../img/city-road.jpg);
+	background-size:cover;
+	background-attachment:fixed;
+	}
+.a{
+	text-align:center;
+	font-size:30px;
+	font-weight:bold;
+	color:#FFF;
+	margin-top:100px;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	}
+.b{
+	text-align:center;
+	color:#FFF;
+	font-size:16px;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	}
+.main{
+	height:400px;
+	width:1100px;
+	margin:auto;
+	margin-top:70px;}
+.Left{
+	height:350;
+	width:400px;
+	float:left;
+	margin-top:40px;
+	margin-left:20px;
+	}
+.L1{
+	height:100px;
+	width:400px;
+	float:left;
+	margin-top:10px;
+	}
+.ic{
+	height:100px;
+	width:50px;
+	float:left;
+	}
+.heading{
+	color:#06F;
+	font-size:20px;
+	float:left;
+	margin-top:5px;
+	font-weight:bold;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	}
+.para{
+	color:#FFF;
+	font-size:14px;
+	float:left;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	}
+.icon{
+	color:#FFF;
+	font-size:20px;
+	margin-top:10px;
+	margin-left:10px;
+	}
+.right{
+	height:370px;
+	width:500px;
+	background-color:#FFF;
+	float:right;
+	margin-top: 20px;
+	}
+.send{
+	color:#000;
+	font-size:30px;
+	margin-top:20px;
+	margin-left:20px;
+	font-weight:bold;
+	}
+.myinput{
+	height:50px;
+	width:95%;
+	background-color:transparent;
+	border:none;
+	border-bottom:2px solid #000;
+	margin-top:20px;
+	margin-left:20px;
+	}
+.btn{
+	height:40px;
+	width:120px;
+	background-color:#FFF;
+	border:2px solid #5662EF;
+	color:#000;
+	margin-top:20px;
+	margin-left: 20px;
+	font-weight: bold;
+    transition:0.5s;
+	}
+.btn:hover{
+	background-color: #645EE4;
+	color: #FFF;
+}
+	

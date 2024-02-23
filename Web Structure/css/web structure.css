@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.header{
+	width:99vw;
+	height:50px;
+	background-color:#141415;
+	margin:auto;
+}
+
+.nev{
+	width:99vw;
+	height:150px;
+	background-color:#099;
+	margin:auto;
+	}
+	
+.slider{
+	width:99vw;
+	height:300px;
+	background-color:#0F9;
+	margin:auto;
+	}
+	
+.content{
+	width:99vw;
+	height:500px;
+	background-color:#006;
+	margin:auto;
+	}
+	
+.footer{
+	width:99vw;
+	height:50;
+	background-color:#000;
+	margin:auto;
+    }

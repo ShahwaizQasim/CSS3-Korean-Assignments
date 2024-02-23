@@ -1,0 +1,38 @@
+.box{
+    height: 500px;
+    width: 800px;
+    border-radius: 22px;
+    overflow: hidden;
+    margin: auto;
+    margin-top: 50px;
+    background-color: black;
+    /* opacity: 100%; */
+}
+
+.box img{
+    transition: transform 0.5s;     
+}
+
+.box img:hover{
+    transform: scale(1.1);
+    opacity: 60%;
+}
+
+.text{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 48%;
+    opacity: 0;
+    text-decoration: none;
+    text-align: center;
+    transition: color 0.3s;
+}
+.text:hover{
+    cursor: pointer !important;
+}
+.box:hover .text{
+    opacity: 100%;
+}
+

@@ -1,0 +1,154 @@
+@charset "utf-8";
+/* CSS Document */
+.main{
+	width:1300px;
+	height:2100px;
+	background-color:#FFF;
+	margin:auto;
+}
+.header{
+	width:1300px;
+	height:150px;
+	background-color:#006;
+	float:left;
+	}
+.slider{
+	width:1300px;
+	height:350px;
+	background-color:#006;
+	float:left;
+	margin-top:15px;
+	}
+.box{
+	width:300px;
+	height:255px;
+	background-color:#006;
+	float:left;
+	margin-left:15px;
+	margin-top:40px;
+	}
+.bre{
+	width:280px;
+	height:110px;
+	background-color:#FFF;
+	float:left;
+	margin-bottom:30px;
+	margin-left:5px;
+	}
+.box1{
+	width:300px;
+	height:250px;
+	background-color:#FFF;
+	float:left;
+	margin-left:20px;
+	margin-top:40px;
+	}
+.contant{
+	width:1300px;
+	height:400px;
+	background-color:#006;
+	float:left;
+	margin-top:15px;
+	}
+.box2{
+	width:700px;
+	height:350px;
+	background-color:#006;
+	float:left;
+	margin-top:25px;
+	margin-left:25px;
+	}
+.bre1{
+	width:700px;
+	height:150px;
+	background-color:#FFF;
+	float:left;
+	margin-top:10px;
+	margin-bottom:15px;
+	margin-left:5px;
+	}
+.box3{
+	width:230px;
+	height:350px;
+	background-color:#FFF;
+	float:left;
+	margin-top:25px;
+	margin-left:40px;
+	border-radius:100%;
+	}
+.contant1{
+	width:1300px;
+	height:600px;
+	background-color:#006;
+	float:left;
+	margin-top:15px;
+	}
+.box4{
+	width:350px;
+	height:350px;
+	background-color:#FFF;
+	float:left;
+	margin-top:130px;
+	margin-left:30px;
+	border-radius:100%;
+	}
+.box5{
+	width:500px;
+	height:350px;
+	background-color:#006;
+	float:left;
+	margin-top:25px;
+	margin-left:20px;
+	}
+.bre2{
+	width:500px;
+	height:150px;
+	background-color:#FFF;
+	float:left;	
+	margin-top:10px;
+	margin-bottom:20px;
+	margin-left:5px;
+	}
+.contant2{
+	width:1300px;
+	height:500px;
+	background-color:#006;
+	float:left;
+	margin-top:15px;
+	}
+.box6{
+	width:270px;
+	height:350px;
+	background-color:#FFF;
+	float:left;
+	margin-left:45px;
+	margin-top:70px;
+	border-radius:50px 50px 50px 50px;
+	}
+.box7{
+	width:270px;
+	height:330px;
+	background-color:#FFF;
+	float:left;
+	margin-left:40px;
+	margin-top:70px;
+	border-radius:200px 200px 0px 0px;
+	}
+.box8{
+	width:270px;
+	height:330px;
+	background-color:#FFF;
+	float:left;
+	margin-left:40px;
+	margin-top:70px;
+	border-radius:0px 0px 200px 200px;
+	}
+.box9{
+	width:270px;
+	height:330px;
+	background-color:#FFF;
+	float:left;
+	margin-left:40px;
+	margin-top:70px;
+	border-radius:1000px 0px 0px 0px;
+	}

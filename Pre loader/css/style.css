@@ -1,0 +1,34 @@
+.square{
+    width: 300px;
+    height: 300px;
+    background-image:repeating-conic-gradient(rgba(46, 64, 83, 0.4) 10%,#B3B6B7 100%);
+    padding: 15px 0px 0px 15px;
+    animation: rotate 1s linear infinite;
+    border-radius: 100%;
+    margin:auto;
+    margin-top: 10%;
+	
+}
+
+.shape1{
+    width: 280px;
+    height: 280px;
+    float: left;
+    background-color: black;
+    border-radius: 100%;
+
+}
+
+@keyframes rotate{
+    0% {transform: rotate(0deg);}
+    100% { transform: rotate(360deg);}
+}
+
+.rotate{
+    width: 100px;
+    height: 100px;
+    background-color: #B3B6B7;
+    padding: 15px 0px 0px 15px;
+    animation: rotate 0.1s linear infinite;
+    margin: 85px 85px;
+}

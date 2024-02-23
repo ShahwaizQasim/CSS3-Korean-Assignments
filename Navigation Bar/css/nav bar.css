@@ -1,0 +1,48 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.top{
+	height: 50px;
+	width: 100%;
+	background-color: aquamarine;
+}
+.header{
+	height: 80px;
+	width: 1200px;
+	background-color: aqua;
+	margin: auto;
+}
+.logo{
+	height: 80;
+	width: 650px;
+	float: left;
+	background-color: aqua;
+}
+.logo img{
+	padding-left: 20px;
+	padding-top: 5px;
+}
+.nav{
+    height:80px;
+	width: 100%;
+	background-color: aqua;
+}
+.nav ul{
+	list-style-type: none;
+}
+.nav li{
+	float: left;
+}
+.nav a{
+	text-decoration: none;
+	padding: 25px 15px;
+	display: block;
+	font-size: 20px;
+	color: white;
+	font-weight: bold;
+	transition: 0.8s;
+}
+.nav a:hover{
+	color: black;
+}

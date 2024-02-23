@@ -1,0 +1,41 @@
+
+:root{
+    --div-color: red;
+    --div1-color: yellow;
+}
+
+.box{
+    height: 400px;
+    width: 300px;
+    margin-top: 50px;
+    background-color: var(--div-color);
+    float: left;
+    margin-left: 40px;
+}
+
+.box1{
+    height: 400px;
+    width: 300px;
+    margin-top: 50px;
+    background-color: var(--div1-color);
+    margin-left: 20px;
+    float:left;
+}
+.box2{
+    height: 400px;
+    width: 300px;
+    margin-top: 50px;
+    background-color: var(--div-color);
+    float: left;
+    margin-left: 20px;
+
+}
+.box3{
+    height: 400px;
+    width: 300px;
+    margin-top: 50px;
+    background-color: var(--div1-color);
+    float: left;
+    margin-left: 20px;
+
+}

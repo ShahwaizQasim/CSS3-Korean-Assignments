@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url(font/Montserrat-Italic-VariableFont_wght.ttf);
+}
+
+h1{
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Montserrat';
+}
